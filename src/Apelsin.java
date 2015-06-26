@@ -7,7 +7,7 @@ import java.util.Vector;
  * Created by user025 on 6/19/2015.
  */
 public class Apelsin {
-
+    //это тестовый коментарий
     String sort;
     int ves;
 
