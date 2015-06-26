@@ -1,0 +1,9 @@
+<root>
+    <item name='java.util.Comparator'>
+        <annotation name='java.lang.annotation.Deprecated'/>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='java.util.Date'>
+      <annotation name='java.lang.annotation.Deprecated'/>
+    </item>
+</root>
